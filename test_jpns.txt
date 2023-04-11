@@ -1,0 +1,3 @@
+初期化されてる これがテストです This is a Japanese sentense
+初期化されてる 初期化されてる https://www.google.co.jp/?client=safari
+https://www.google.co.jp/
